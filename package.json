@@ -1,0 +1,19 @@
+{
+  "name": "nftstaking",
+  "version": "1.0.0",
+  "description": "NFT Staking DApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueBeam321/NFTStaking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueBeam321/NFTStaking/issues"
+  },
+  "homepage": "https://github.com/BlueBeam321/NFTStaking#readme"
+}
